@@ -1,8 +1,28 @@
 /* Стили проекта */
 header {
-    background-color: rgb(117, 230, 12);
+    background-color: rgb(251, 252, 251);
 }
 
 main {
     background-color: rgb(255, 255, 255);
 }
+
+.but {
+    padding: 0;
+}
+
+.regis {
+    padding: 10px;
+    margin: 0 auto;
+    display: block;
+}
+
+h1,h3 {
+    text-align: center;
+}
+
+.temo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    }
